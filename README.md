@@ -14,3 +14,4 @@ Grupa studencka: WELE18DE1S1
 
 # Odpowiedzi do pytań z instrukcji
 ...
+zakończenie
